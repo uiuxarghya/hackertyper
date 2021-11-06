@@ -1,7 +1,7 @@
 <div align=center>
 
-![](/favicons/logo.png)
+<img height="140" width="auto" src=".github/logo.png">
 
-## **Hacker Typer**
+# **Hacker Typer**
 
 </div>
